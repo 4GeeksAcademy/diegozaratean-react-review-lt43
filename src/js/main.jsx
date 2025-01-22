@@ -11,9 +11,11 @@ import '../styles/index.css'
 // components
 import Home from './components/Home';
 import Card from './components/Card';
+import Form from './components/Form';
+import Series from './components/series';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Card cantidad={1}/>
+    <Series />
   </React.StrictMode>,
 )
