@@ -31,3 +31,18 @@ const Series = ()=>{
 }
 
 export default Series
+
+
+// PSEUDOCODIGO
+// DONE:mostrar input en html
+// DONE:obetner el valor que ingreso en el input en jsx
+// DONE:identificar cuando le doy enter a un input
+// DONE: agregar un elemento a un array
+// DONE: mostrar un array de tareas
+// eliminar una tarea 
+//  cuando hago hover sobre la sloigta mostar un boton de eliminar
+//  eliminar un elemento de un array en react
+// contar los elementos de un array
+// agregar estilos a la parte grafica
+
+

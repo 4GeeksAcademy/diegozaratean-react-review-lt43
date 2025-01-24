@@ -13,9 +13,12 @@ import Home from './components/Home';
 import Card from './components/Card';
 import Form from './components/Form';
 import Series from './components/series';
+import Tareas from './components/Tareas';
+import Onkey from './components/onkey';
+import Onsu from './components/onsu';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Series />
+    <Onsu />
   </React.StrictMode>,
 )
