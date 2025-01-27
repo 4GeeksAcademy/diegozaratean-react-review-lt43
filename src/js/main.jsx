@@ -16,9 +16,11 @@ import Series from './components/series';
 import Tareas from './components/Tareas';
 import Onkey from './components/onkey';
 import Onsu from './components/onsu';
+import Counter from './components/Counter';
+import Getdata from './components/Getdata';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Onsu />
+    <Getdata />
   </React.StrictMode>,
 )
