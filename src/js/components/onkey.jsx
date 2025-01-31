@@ -11,6 +11,7 @@ const Onkey = ()=>{
 
         if(e.keyCode == 13){
             console.log('oprimistre ENTER')
+            // llamado a la funcion de crear tarea
             setTarea('')
 
         }
